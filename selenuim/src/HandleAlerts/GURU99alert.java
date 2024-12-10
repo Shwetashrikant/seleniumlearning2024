@@ -36,10 +36,10 @@ public class GURU99alert {
 		System.out.println(alert.getText());
 		
 		alert.accept();
-		
-		
-		
-		
 	}
+		
+		
+		
+	
 
 }
